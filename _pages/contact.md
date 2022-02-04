@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Rochester, MN<br>
+Donald Bren Hall, Irvine, CA<br>
 
-Email: mrsandeshbhat [at] gmail [dot] com
+Email: steliostav_ou_akis@gmail.com -> Fill in the blanks with R L
 
-LinkedIn: [<font color="#52ADC8">DrSGBhat</font>](https://in.linkedin.com/in/mrsandeshbhat)
+LinkedIn: [<font color="#52ADC8">steliostavroulakis</font>](https://linkedin.com/in/steliostavroulakis)
 
-<!-- <embed src="https://www.linkedin.com/in/mrsandeshbhat" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="https://www.linkedin.com/in/steliostavroulakis" width="650" height="1800" type='application/pdf'> -->
