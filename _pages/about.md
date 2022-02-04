@@ -24,7 +24,7 @@ https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/fil
 
 <a href="steliostavroulakis.github.io/blob/main/files/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
 
-<a href="files/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
+<a href="blob/main/files/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
 
 
 
