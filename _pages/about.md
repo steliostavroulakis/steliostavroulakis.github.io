@@ -18,6 +18,9 @@ For more information about me, see my [CV](https://steliostavroulakis.github.io/
 
 <a href="https://steliostavroulakis.github.io/files/CV_Stelios-Stavroulakis.pdf" target="_blank">PDF.</a>
 
+<a href="https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
+
+
 <!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
 
 
