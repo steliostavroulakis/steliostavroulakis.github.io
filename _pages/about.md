@@ -14,19 +14,7 @@ In reverse chronological order, I have worked on Privacy-Preserving Reinforcemen
 
 My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, you should ask me for recommendations.
 
-For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios-Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
-
-<a href="https://steliostavroulakis.github.io/files/CV_Stelios-Stavroulakis.pdf" target="_blank">PDF.</a>
-
-<a href="https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
-
-https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/files/CV_Stelios_Stavroulakis.pdf
-
-<a href="steliostavroulakis.github.io/blob/main/files/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
-
-<a href="blob/main/files/CV_Stelios_Stavroulakis.pdf" target="_blank">PDF.</a>
-
-
+For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
 
 <!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
 
