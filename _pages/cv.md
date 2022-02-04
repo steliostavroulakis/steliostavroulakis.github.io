@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Resume: [PDF](https://steliostavroulakis.github.io/CV_Stelios-Stavroulakis.pdf)
+CV: [PDF](https://steliostavroulakis.github.io/CV_Stelios-Stavroulakis.pdf)
