@@ -9,17 +9,20 @@ main:
   # - title: "Awards & Honors"
   #   url: /awards/
 
-  #- title: "Talks"
-  #  url: /talks/    
+  - title: "Talks"
+    url: /talks/    
 
-  - title: "Photography"
-    url: /Photography/    
+  - title: "Teaching"
+    url: /teaching/
+
+  #- title: "Photography"
+  #  url: /Photography/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
         
-  - title: "Student Advocacy"
-    url: /stuadv/
+  #- title: "Student Advocacy"
+  #  url: /stuadv/
     
   - title: "Contact"
     url: /contact/  
