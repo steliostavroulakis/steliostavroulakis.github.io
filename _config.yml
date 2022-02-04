@@ -88,7 +88,7 @@ author:
                       Donald Bren School of Information and Computer Sciences,
                       University of California, Irvine."
   location         : "Irvine, CA, USA"
-  employer         : "UCI"
+  employer         : #"UCI"
   googlescholar    : # ""
   email            : "sstavrou@uci.edu"
   uri              : 
@@ -101,7 +101,7 @@ author:
   github           : "steliostavroulakis"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "stelecopter"
   lastfm           :
   linkedin         : "steliostavroulakis"
   orcid            : #"https://orcid.org/0000-0002-8989-0235"
