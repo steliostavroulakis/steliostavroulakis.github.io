@@ -9,7 +9,7 @@ author_profile: true
 
 4046 Donald Bren Hall, Irvine, CA<br>
 
-Email: steliostavroulakis [-> at <-] gmail.com
+Email: steliostavroulakis [at] gmail.com
 
 LinkedIn: [<font color="#52ADC8">steliostavroulakis</font>](https://linkedin.com/in/steliostavroulakis)
 
