@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. I am a PhD Student in Computer Science at UCI, advised by Prof. [Ioannis Panageas](https://panageas.github.io). My research interests lie at the intersection of Multi-Agent Reincorcement Learning, Game Theory and Optimization.
+Hello and welcome to my website. I am a PhD Student in [Computer Science](https://www.ics.uci.edu/) at [UCI](https://uci.edu/), advised by Prof. [Ioannis Panageas](https://panageas.github.io). My research interests lie at the intersection of [Multi-Agent Reincorcement Learning](https://arxiv.org/pdf/1911.10635.pdf), Game Theory and Optimization.
 
 In reverse chronological order, I have worked on Privacy-Preserving Reinforcement learning at the [UCI Networking Group](https://athinagroup.eng.uci.edu/), Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) and music information retrieval algorithms [[demo]](https://drive.google.com/file/d/1Q0xlF2VNSs6NVh8FSPA0nydCw3x_e6Nb/view) [[ISMIR '17 paper]](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/135_Paper.pdf) at the Language & Speech Processing Institute of the [Athena Research and Innovation Center](https://www.athenarc.gr/en). I received my Diploma in EECS from the [National Technical University of Athens](https://ntua.gr).
 
