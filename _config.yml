@@ -84,9 +84,7 @@ analytics:
 author:
   name             : "Stelios Stavroulakis"
   avatar           : "stelios.jpg"
-  bio              : "PhD Student,
-                      Donald Bren School of Information and Computer Sciences,
-                      University of California, Irvine."
+  bio              : "CS PhD Student @ UCI"
   location         : "Irvine, CA, USA"
   employer         : #"UCI"
   googlescholar    : # ""
