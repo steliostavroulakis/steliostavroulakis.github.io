@@ -12,7 +12,7 @@ Hello and welcome to my website. I am a PhD Student in [Computer Science](https:
 
 In reverse chronological order, I have worked on Privacy-Preserving Reinforcement learning at the [UCI Networking Group](https://athinagroup.eng.uci.edu/), Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) and music information retrieval algorithms [[demo]](https://drive.google.com/file/d/1Q0xlF2VNSs6NVh8FSPA0nydCw3x_e6Nb/view) [[ISMIR '17 paper]](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/135_Paper.pdf) at the Language & Speech Processing Institute of the [Athena Research and Innovation Center](https://www.athenarc.gr/en). I received my Diploma in EECS from the [National Technical University of Athens](https://ntua.gr).
 
-My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, you should ask me for recommendations.
+My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, ask me for recommendations!
 
 For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
 
