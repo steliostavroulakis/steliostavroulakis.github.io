@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Email: sstavrou 🐣 uci dot edu, replace 🐣 with 🐤
+Email: sstavrou 📪 uci dot edu, replace 📪 with 📬
 
 4046 Donald Bren Hall
 Irvine, CA 92697
