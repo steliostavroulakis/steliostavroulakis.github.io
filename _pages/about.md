@@ -17,11 +17,9 @@ In reverse chronological order, I have worked on:
 * Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/reinforcement-learning-grid-control) 
 * Music information retrieval algorithms [[demo]](https://drive.google.com/file/d/1Q0xlF2VNSs6NVh8FSPA0nydCw3x_e6Nb/view) [[ISMIR '17 paper]](https://ismir2017.smcnus.org/wp-content/uploads/2017/10/135_Paper.pdf) at the Language & Speech Processing Institute of the [Athena Research and Innovation Center](https://www.athenarc.gr/en). 
 
-I received my Diploma in EECS from the [National Technical University of Athens](https://ntua.gr).
+I received my Diploma in EECS from the [National Technical University of Athens](https://ntua.gr). For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
 
 My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, ask me for recommendations!
-
-For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
 
 <!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
 
