@@ -27,4 +27,5 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 News
 ======
 Currently attending the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing.
+----
 * **March 2022** - Our paper entitled [Reinforcement Learning for Location-Aware Scheduling](https://arxiv.org/abs/2203.03480) got accepted at the inargular ICLR 2022 Workshop on [Generalizable Policy Learning in Physical World](https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/).
