@@ -24,6 +24,7 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 <!-- <img align="middle" src="https://DrSGBhat.github.io/files/sandesh.jpg?raw=true" alt="Photo" style="width: 700px; border-radius: 10px; padding: 8px 8px 8px 8px"/>  -->
 
 ----
+
 News
 ======
 Currently attending the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing.
