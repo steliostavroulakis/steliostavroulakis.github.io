@@ -10,5 +10,3 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 <i><b>Stelios Stavroulakis</b></i>, Biswa Sengupta<br>
 <i>ICLR 2022 Generalizable Policy Learning in the Physical World Workshop </i>
 <br>
-
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
