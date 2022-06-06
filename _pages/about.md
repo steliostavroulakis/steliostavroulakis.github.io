@@ -28,7 +28,7 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 News
 ======
 
-* **June 2022** - Submitted my MS thesis entitled: ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://steliostavroulakis.github.io/files/MS_Thesis_UCI.pdf). Code containing algorithm implementation and multi-agent RL environment can be found [here](https://github.com/steliostavroulakis/AdversarialTeamGames).
+* **June 2022** - Submitted my MS thesis entitled ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://steliostavroulakis.github.io/files/MS_Thesis_UCI.pdf). Algorithm implementation and multi-agent RL environment [here](https://github.com/steliostavroulakis/AdversarialTeamGames).
 
 * **May 2022** - Participated in the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing. Particularly enjoyed the [Multi-Agent Reinforcement Learning and Bandit Learning](https://simons.berkeley.edu/workshops/games2022-3) Workshop.
 
