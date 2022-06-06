@@ -28,8 +28,8 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 News
 ======
 
-* **June 2022** - Submitted my [thesis](https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/files/MS_Thesis_UCI.pdf) in partial satisfaction of the requirements for my MS degree in EECS at UCI.
+* **June 2022** - Submitted my MS thesis entitled: ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://github.com/steliostavroulakis/steliostavroulakis.github.io/blob/main/files/MS_Thesis_UCI.pdf).
 
-* **May 2022** - Attended the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing. Particularly enjoyed the [Multi-Agent Reinforcement Learning and Bandit Learning](https://simons.berkeley.edu/workshops/games2022-3) Workshop.
+* **May 2022** - Participated in the [Learning and Games](https://simons.berkeley.edu/programs/games2022) program at the Simons Institute for the Theory of Computing. Particularly enjoyed the [Multi-Agent Reinforcement Learning and Bandit Learning](https://simons.berkeley.edu/workshops/games2022-3) Workshop.
 
 * **March 2022** - Our paper entitled [Reinforcement Learning for Location-Aware Scheduling](https://arxiv.org/abs/2203.03480) got accepted at the inaugural ICLR 2022 Workshop on [Generalizable Policy Learning in Physical World](https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/).
