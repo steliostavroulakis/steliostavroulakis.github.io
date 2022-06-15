@@ -35,4 +35,4 @@ News
 
 * **March 2022** - Our paper entitled [Reinforcement Learning for Location-Aware Scheduling](https://arxiv.org/abs/2203.03480) got accepted at the inaugural ICLR 2022 Workshop on [Generalizable Policy Learning in Physical World](https://ai-workshops.github.io/generalizable-policy-learning-in-the-physical-world/).
 
-* **July 2021** - Completed the [Reinforcement Learning specialization](https://coursera.org/share/79e65992652227a9c3872d9ea3a031a3) offered by the [University of Alberta](https://www.coursera.org/specializations/reinforcement-learning). This was probably one of the most organized and well-crafted courses I have ever taken.
+* **July 2021** - Completed the [Reinforcement Learning Specialization](https://coursera.org/share/79e65992652227a9c3872d9ea3a031a3) offered by the [University of Alberta](https://www.coursera.org/specializations/reinforcement-learning). This was probably one of the most organized and well-crafted courses I have ever taken.
