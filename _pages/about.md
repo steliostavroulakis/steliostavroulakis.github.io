@@ -27,7 +27,7 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 
 News
 ======
-* **June 2022** - Joined the Core ML team of [Zebra Technologies](https://www.zebra.com/us/en.html) as a Reinforcement Learning Engineer to work on multi-agent orchestration solutions.
+* **June 2022** - Joined the Core ML team of [Zebra Technologies](https://www.zebra.com/us/en.html) as a Reinforcement Learning Engineer to work on multi-agent orchestration solutions with [Jay Williams](https://www.linkedin.com/in/jayjwilliams).
 
 * **June 2022** - Submitted my MS thesis entitled ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://steliostavroulakis.github.io/files/MS_Thesis_UCI.pdf). Code containing algorithm implementation and multi-agent reinforcement learning environment can be found [here](https://github.com/steliostavroulakis/AdversarialTeamGames).
 
