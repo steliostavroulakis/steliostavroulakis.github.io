@@ -10,7 +10,7 @@ For proper citations, refer [Google Scholar](https://scholar.google.com/citation
 
 
 <b>[On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://steliostavroulakis.github.io)</b> <br>
-with Vaggos Chatziafratis, Clayton Sanford and Ioannis Panageas<br>
+with Vaggos Chatziafratis, Ioannis Panageas and Clayton Sanford<br>
 <i>NeurIPS 2022</i>
 <br>
 
