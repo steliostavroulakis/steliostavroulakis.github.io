@@ -4,12 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 <br>
-For proper citations, refer [Google Scholar](https://scholar.google.com/citations?user=PPCdElkAAAAJ&hl=en)<br>
+[Google Scholar](https://scholar.google.com/citations?user=PPCdElkAAAAJ&hl=en)<br>
 <br>
 
-
-
-<b>[On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://steliostavroulakis.github.io)</b> <br>
+<b>[On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://arxiv.org/abs/2210.05212)</b> <br>
 with Vaggos Chatziafratis, Ioannis Panageas and Clayton Sanford<br>
 <i>NeurIPS 2022</i>
 <br>
