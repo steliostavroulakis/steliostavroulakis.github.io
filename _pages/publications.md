@@ -9,7 +9,7 @@ with Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasile
 <i>ICLR 2023 (oral)</i>
 <br>
 
-<b>[adaParl : Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems](https://steliostavroulakis.github.io)</b> <br>
+<b>[adaParl : Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems](https://arxiv.org/abs/2303.04257)</b> <br>
 with Mojtaba Taherisadr and Salma Elmalaki<br>
 <i>IoTDI’23</i>
 <br>
