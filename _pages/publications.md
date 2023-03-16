@@ -8,7 +8,8 @@ author_profile: true
 
 <b>[Efficiently Computing Nash Equilibria in Adversarial Team Markov Games](https://arxiv.org/abs/2208.02204)</b> <br>
 with Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasileios Vlatakis-Gkaragkounis and Vaggos Chatziafratis<br>
-<i>ICLR 2023 (oral)</i>
+<i>ICLR 2023 <span style="color: red;">(Oral talk)</span>
+</i>
 <br>
 
 <b>[Reinforcement Learning for Location-Aware Scheduling](https://arxiv.org/abs/2203.03480)</b> <br>
