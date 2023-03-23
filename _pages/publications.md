@@ -16,7 +16,7 @@ with Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasile
 with Biswa Sengupta<br>
 <i>ICLR 2022 Generalizable Policy Learning in the Physical World Workshop </i>
 
-<b>Convergence is Not Enough: Average-Case Performance of No-Regret Learning Dynamics</b> <br>
+<b>[Convergence is Not Enough: Average-Case Performance of No-Regret Learning Dynamics](https://openreview.net/pdf?id=Jdj0fZhswJC)</b> <br>
 with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras <br>
 
 ## Expressivity of Neural Networks
