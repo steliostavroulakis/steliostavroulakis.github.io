@@ -16,6 +16,8 @@ with Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasile
 with Biswa Sengupta<br>
 <i>ICLR 2022 Generalizable Policy Learning in the Physical World Workshop </i>
 
+<b>Convergence is Not Enough: Average-Case Performance of No-Regret Learning Dynamics</b> <br>
+with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras
 
 ## Expressivity of Neural Networks
 
