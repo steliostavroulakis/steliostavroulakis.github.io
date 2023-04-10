@@ -28,7 +28,7 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 News
 ======
 
-* **March 2023** - Happy to announce I will be joining Qualcomm AI this summer, focusing on machine learning and combinatorial optimization research under constraints.
+* **March 2023** - Happy to announce I will be joining Qualcomm AI this summer, focusing on machine learning and combinatorial optimization under constraints.
 
 * **February 2023** - Our paper entitled [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games](https://arxiv.org/abs/2208.02204) got accepted at [ICLR 2023](https://iclr.cc/) as a notable-top-5% paper.
 
