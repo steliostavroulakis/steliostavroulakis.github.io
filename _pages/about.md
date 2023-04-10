@@ -27,6 +27,16 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 
 News
 ======
+
+* **March 2023** - Happy to announce I will be joining Qualcomm AI this summer, focusing on machine learning and combinatorial optimization research under constraints.
+
+* **February 2023** - Our paper entitled [Efficiently Computing Nash Equilibria in Adversarial Team Markov Games](https://arxiv.org/abs/2208.02204) got accepted at [ICLR 2023](https://iclr.cc/) as a notable-top-5% paper.
+
+* **January 2023** - Our paper entitled [adaPARL: Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems
+](https://arxiv.org/abs/2303.04257) got accepted at [IoTDI 2023](https://conferences.computer.org/iotDI/2023/).
+
+* **September 2022** - Our paper entitled [On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://arxiv.org/abs/2210.05212) got accepted at [NeurIPS 2022](https://nips.cc/virtual/2022/poster/53909).
+
 * **June 2022** - Joined the Core ML team of [Zebra Technologies](https://www.zebra.com/us/en.html) as a Reinforcement Learning Engineer to work on multi-agent orchestration solutions with [Jay Williams](https://www.linkedin.com/in/jayjwilliams).
 
 * **June 2022** - Submitted my MS thesis entitled ["Computing Nash Equilibria in Adversarial Stochastic Team Games"](https://steliostavroulakis.github.io/files/MS_Thesis_UCI.pdf). Code containing algorithm implementation and multi-agent reinforcement learning environment can be found [here](https://github.com/steliostavroulakis/AdversarialTeamGames).
