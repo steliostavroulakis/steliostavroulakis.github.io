@@ -27,7 +27,7 @@ My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to vis
 
 News
 ======
-* **April 2023** - Thrilled to announce my recent acceptance as an Reinforcement Learning Researcher at the [Microsoft Reinforcement Learning Open Source Festival 2023](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/), exploring feature generation using transformers!
+* **April 2023** - Thrilled to announce my recent acceptance as an Reinforcement Learning Researcher at the [Microsoft Reinforcement Learning Open Source Festival 2023](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/), exploring feature generation using transformers! Check out my [screening exercise implementation](https://bow-save-700.notion.site/Balancing-a-Cartpole-using-Reinforcement-Learning-and-Transformers-5dc8a1328add4a42b8ff90b3a55be5ed) conducting an inverted pole balancing task via transformers and reinforcement learning.
 
 * **March 2023** - Happy to announce I will be joining Qualcomm AI this summer, focusing on machine learning and combinatorial optimization under constraints.
 
