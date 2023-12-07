@@ -12,6 +12,8 @@ Hello and welcome to my website. I am a PhD Student in [Computer Science](https:
 
 In reverse chronological order, I have worked on:
 
+* Reinforcement Learning for LLM Hallucination Control at [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence/ai-research)
+* Reinforcement Learning for In-Context Learning at [Microsoft Research](https://www.microsoft.com/en-us/research/) as an [RLOS](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) participant
 * Multi-Agent Reinforcement Learning at [Zebra Technologies](https://www.zebra.com/us/en.html) with [Biswa Sengupta](https://www.linkedin.com/in/biswasengupta).
 * Privacy-Preserving Reinforcement learning at the [UCI Networking Group](https://athinagroup.eng.uci.edu/).
 * Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/reinforcement-learning-grid-control) 
