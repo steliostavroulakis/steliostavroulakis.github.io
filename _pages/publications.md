@@ -16,19 +16,24 @@ with Fivos Kalogiannis, Ioannis Anagnostides, Ioannis Panageas, Emmanouil-Vasile
 with Biswa Sengupta<br>
 <i>ICLR 2022 Generalizable Policy Learning in the Physical World Workshop </i>
 
+## Game Theory
+
 <b>[Convergence is Not Enough: Average-Case Performance of No-Regret Learning Dynamics](https://openreview.net/pdf?id=Jdj0fZhswJC)</b> <br>
 with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras <br>
 
-## Expressivity of Neural Networks
-
-<b>[On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://arxiv.org/abs/2210.05212)</b> <br>
-with Vaggos Chatziafratis, Ioannis Panageas and Clayton Sanford<br>
-<i>NeurIPS 2022</i>
-<br>
+<b>[Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints](https://steliostavroulakis.github.io)</b> <br>
+with Nikolas Patris, Fivos Kalogiannis, Rose Zhang and Ioannis Panageas
 
 ## Privacy-Aware Reinforcement Learning
 
 <b>[adaParl : Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems](https://arxiv.org/abs/2303.04257)</b> <br>
 with Mojtaba Taherisadr and Salma Elmalaki<br>
 <i>IoTDI’23</i>
+<br>
+
+## Expressivity of Neural Networks
+
+<b>[On Scrambling Phenomena for Randomly Initialized Recurrent Networks](https://arxiv.org/abs/2210.05212)</b> <br>
+with Vaggos Chatziafratis, Ioannis Panageas and Clayton Sanford<br>
+<i>NeurIPS 2022</i>
 <br>
