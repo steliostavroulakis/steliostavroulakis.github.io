@@ -20,7 +20,7 @@ with Biswa Sengupta<br>
 
 <b>[Beating Price of Anarchy and Gradient Descent without Regret in Potential Games](https://steliostavroulakis.github.io)</b> <br>
 with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras <br>
-<i><span style="color: red;">AAAI 2024</span></i>
+<i><span style="color: red;">ICLR 2024</span></i>
 
 <b>[Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints](https://steliostavroulakis.github.io)</b> <br>
 with Nikolas Patris, Fivos Kalogiannis, Rose Zhang and Ioannis Panageas <br>
