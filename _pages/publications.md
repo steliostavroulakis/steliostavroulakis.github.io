@@ -30,7 +30,7 @@ with Nikolas Patris, Fivos Kalogiannis, Rose Zhang and Ioannis Panageas <br>
 
 <b>[adaParl : Adaptive Privacy-Aware Reinforcement Learning for Sequential-Decision Making Human-in-the-Loop Systems](https://arxiv.org/abs/2303.04257)</b> <br>
 with Mojtaba Taherisadr and Salma Elmalaki<br>
-<i><b>IoTDI’23</span></b></i>
+<i><b>IoTDI’23</b></i>
 <br>
 
 ## Expressivity of Neural Networks
