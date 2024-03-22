@@ -22,7 +22,7 @@ with Biswa Sengupta<br>
 with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras <br>
 <i><b>ICLR 2024</b></i>
 
-<b>[Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints](https://steliostavroulakis.github.io)</b> <br>
+<b>[Computing Nash Equilibria in Potential Games with Private Uncoupled Constraints](https://arxiv.org/abs/2402.07797)</b> <br>
 with Nikolas Patris, Fivos Kalogiannis, Rose Zhang and Ioannis Panageas <br>
 <i><b>AAAI 2024</b></i>
 
