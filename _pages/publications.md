@@ -18,6 +18,11 @@ with Biswa Sengupta<br>
 
 ## Game Theory
 
+<b>[The Complexity of Finding Local Optima in Contrastive Learning](https://steliostavroulakis.github.io)</b> <br>
+with 
+Jingming Yan, Yiyuan Luo, Vaggos Chatziafratis, Ioannis Panageas, ans Parnian Shahkar <br>
+<i><b>NeurIPS 2025</b></i>
+
 <b>[Beating Price of Anarchy and Gradient Descent without Regret in Potential Games](https://steliostavroulakis.github.io)</b> <br>
 with Iosif Sakos, Stefanos Leonardos, William Overman, Ioannis Panageas and Georgios Piliouras <br>
 <i><b>ICLR 2024</b></i>
