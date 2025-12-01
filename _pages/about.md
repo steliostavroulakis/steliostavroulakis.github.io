@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my website. I am a PhD Student in [Computer Science](https://www.ics.uci.edu/) at [UCI](https://uci.edu/) who is extremely fortunate fo be advised by Prof. [Ioannis Panageas](https://panageas.github.io). My research interests lie at the intersection of Multi-Agent Reincorcement Learning, Game Theory and Optimization.
+I am a Senior Reinforcement Learning Engineer at Quilter, working on reinforcement learning for automated PCB and circuit design. I received my PhD in [Computer Science](https://www.ics.uci.edu/) from the [University of California, Irvine](https://uci.edu/). My work lies at the intersection of multi-agent reinforcement learning, game theory, and optimization.
 
 In reverse chronological order, I have worked on:
 
@@ -19,7 +19,7 @@ In reverse chronological order, I have worked on:
 * Reinforcement Learning for Industrial Power Control, advised by [Qiuhua Huang](https://energyenvironment.pnnl.gov/staff/staff_info.asp?staff_num=2957) at the [Pacific Northwest National Laboratory](https://www.pnnl.gov/reinforcement-learning-grid-control) 
 * Music information retrieval algorithms at the Language & Speech Processing Institute of the [Athena Research and Innovation Center](https://www.athenarc.gr/en). 
 
-Recently, I optained a MS in Computer Engineering from the University of California, Irvine. Prior to that, I received my Diploma in EECS from the [National Technical University of Athens](https://en.wikipedia.org/wiki/National_Technical_University_of_Athens). For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
+I also hold a MS in Computer Engineering from the University of California, Irvine, and a MEng Diploma in EECS from the [National Technical University of Athens](https://en.wikipedia.org/wiki/National_Technical_University_of_Athens). For more information about me, see my [CV](https://steliostavroulakis.github.io/files/CV_Stelios_Stavroulakis.pdf) or [contact](https://steliostavroulakis.github.io/contact) me.
 
 My origin is from Rethymno and I grew up in Athens, Greece. If you'd like to visit Crete, ask me for recommendations!
 
