@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Reinforcement Learning Engineer at Quilter, working on reinforcement learning for automated PCB design. I received my PhD in [Computer Science](https://www.ics.uci.edu/) from the [University of California, Irvine](https://uci.edu/). My work lies at the intersection of multi-agent reinforcement learning, game theory, and optimization.
+I am a Senior Reinforcement Learning Engineer at Quilter, working on reinforcement learning for automated PCB design. I received my PhD in Computer Science from the [University of California, Irvine](https://www.ics.uci.edu/). My work lies at the intersection of multi-agent reinforcement learning, game theory, and optimization.
 
 In reverse chronological order, I have worked on:
 
