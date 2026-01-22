@@ -12,7 +12,7 @@
 #minimal_mistakes_skin : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 locale                   : "en-US"
-title                    : "Stelios Stavroulakis"
+title                    : "Stelios Stavroulakis, PhD"
 title_separator          : "-"
 name                     : &name "Stelios Stavroulakis"
 description              : &description "Senior RL Engineer at Quilter | PhD in CS"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Stelios Stavroulakis"
   avatar           : "profile_pic.jpg"
-  bio              : "RL Engineer | PhD"
+  bio              : "Senior RL Engineer @ Quilter"
   location         : "Irvine, CA, USA"
   employer         : #"UCI"
   googlescholar    : "https://scholar.google.com/citations?user=PPCdElkAAAAJ&hl=en"
